@@ -10,7 +10,7 @@ A mobil eszkozok elterjedese, es fokent a fiatalok altali igen kedvelt hasznalat
 Papiros kuponrendszerunk bevaltotta a hozzafuzott remenyeket. Bevezetese ota...
 
 3. Vagyalom rendszer
-
+Az altalunk igenyelt megoldas web es nativ mobil alkalmazas formajaban is mukodjon.
 
 (4. Torvenyek, szabalyok, szabvanyok)
 
