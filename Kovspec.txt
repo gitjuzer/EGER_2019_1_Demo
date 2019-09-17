@@ -10,6 +10,7 @@ A mobil eszkozok elterjedese, es fokent a fiatalok altali igen kedvelt hasznalat
 Papiros kuponrendszerunk bevaltotta a hozzafuzott remenyeket. Bevezetese ota...
 
 3. Vagyalom rendszer
+Olyan rendszert szeretnenk, ami a versenytarsak rendszereinek elonyeit tartalmazza, pl. minden mobil eszkozon mukodjon.
 Az altalunk igenyelt megoldas web es nativ mobil alkalmazas formajaban is mukodjon.
 
 (4. Torvenyek, szabalyok, szabvanyok)
