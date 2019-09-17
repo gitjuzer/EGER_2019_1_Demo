@@ -1,0 +1,19 @@
+Demo projekt
+Kovetelmenyspecifikacio
+
+1. Vezetoi osszefoglalo
+
+
+2. Jelenlegi helyzet
+
+
+3. Vagyalom rendszer
+
+
+(4. Torvenyek, szabalyok, szabvanyok)
+
+
+5. Jelenlegi uzleti folyamatok modellje
+
+
+6. Igenyelt uzleti folyamatok modellje
