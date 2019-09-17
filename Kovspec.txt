@@ -2,6 +2,8 @@ Demo projekt
 Kovetelmenyspecifikacio
 
 1. Vezetoi osszefoglalo
+A mobil eszkozok elterjedese, es fokent a fiatalok altali igen kedvelt hasznalata miatt celunk egz mobil telefonons kuponrendszer fejlesztese cegunk szamara.
+.....
 
 
 2. Jelenlegi helyzet
